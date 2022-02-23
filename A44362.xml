@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A presentation to London being an answer to the young men and apprentices returned to some part of their petition and addresse directed by them to the major, aldermen and common-councel assembled, and this is directed to them for their better information and to the citizens of London for their better satisfaction ...</title>
+            <author>Hookes, Ellis, d. 1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44362</idno>
+            <idno type="STC">Wing H2661A</idno>
+            <idno type="STC">ESTC R23975</idno>
+            <idno type="EEBO-CITATION">07934054</idno>
+            <idno type="OCLC">ocm 07934054</idno>
+            <idno type="VID">40540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1208:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A presentation to London being an answer to the young men and apprentices returned to some part of their petition and addresse directed by them to the major, aldermen and common-councel assembled, and this is directed to them for their better information and to the citizens of London for their better satisfaction ...</title>
+                  <author>Hookes, Ellis, d. 1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: E.H.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40540:1"/>
+            <head>A PRESENTATION TO London: Being In <hi>ANSWER</hi> to the Young Men and Apprentices, Returned to ſome part of their Petition and Addreſſe; directed by them to the <hi>Major, Al<g ref="char:EOLhyphen"/>dermen,</hi> and <hi>Common-Councel</hi> Aſ<g ref="char:EOLhyphen"/>ſembled and this is directed to them for <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Information. And to the Citi<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> for their better ſatis<g ref="char:EOLhyphen"/>faction; if the Lord ſhall ſo work upon their hearts, as to bring them into Mo<g ref="char:EOLhyphen"/>deration, and the Spirit of Meekneſſe, fit for his Inſtructions.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras you ſay; <hi>It hath pleaſed the Good, and only wiſe God for your and the Nations cry<g ref="char:EOLhyphen"/>ing Sins, to manifeſt his diſpleaſure for many yeares together againſt theſe Nations, and yet you ſay this honourable Citty, hath bin no great ſharers in the calamity, which your Bretheren in other parts bath ſuffered, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Friends, its very true becauſe of <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs and the Nations crying Sins, the Lords diſpleaſure is a<g ref="char:EOLhyphen"/>mit
+<pb n="2" facs="tcp:40540:2"/>you, and the Nation, and his judgments hang over your Citty, and the Nation, even becauſe of your crying Sins; O the pride, the hypocritie, and double dealing, and wantonneſſe, and all other, the abominable wickedneſſe which abounds among you, which are your Sins, which indeed is the cauſe of Gods diſpleaſure againſt you, and the Nation, which he will ſhew one way or other upon you, for iniquity is full; but ſeeing that your ſins have provoked the Lord, is it not now time to come to humility and repentance? and to forſake your Sins, that the diſpleaſure of the Lord may be turned from you, or is it a time for you to be envious, and to ſeeke revenge upon men, and to make Inſurrections, and Tumults, and Bloud-ſheds, and ſo to add Sin unto your Sins; its not a time for you to pro<g ref="char:EOLhyphen"/>ceed thus, for hereby you will gaine Gods diſpleaſure more unto you, and not turne his wrath away: and its true, this City hath bin wonderfully preſerved from the miſeries, and calamities, which have come upon ſome in this Nation, and therefore its time for you to anſwer the Lords love un<g ref="char:EOLhyphen"/>to you, by meekneſſe, and fear, and righteouſneſſe, and not to abuſe his mercies, by <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>g the words of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſet<g ref="char:EOLhyphen"/>ing your ſelves to ſight as againſt him in his proceedings, though the time is at hand, even becauſe of your own multiplyed iniquities, when you may bring calamity and miſery upon this City, and it may partake of the Nations tribulations and ſor<g ref="char:EOLhyphen"/>rowes, and then you complaine of the generall decay of Trading, but what can you attribute that unto, but to your Sins alſo; for there hath bin ſo much double-dealing, deceit, and wickedneſſe in the way of your Trading, that it is juſt with the Lord to turn your former mercies into a preſent judgment in that reſpect, but in this caſe you ought to be contented, and to be ſtill, and not to murmur againſt God, nor againſt any others in the Nation, but the rather to repent, that wrath may be turned from you.</p>
+            <p>And whereas you ſeeme to make an appeal to your Lord Major, Aldermen, Common-councell men of this City, as if they ſhould be inſtruments for the ſetling of the three Nations, and for the removing of the troubles, and for the peace of his Church, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Alaſs my Friends! theſe troubles, diſtractions, and miſeries that is approached, and which further may enſue, is the fruit and effect of yours, and the Nations Sins, and cannot be removed nor remitted, but as you and the Nation repenteth,
+<pb n="3" facs="tcp:40540:2"/>and turneth from your Sins, ſo that you take a wrong courſe to remove the judgments of the Lord from you, and this Nation; for its certain, that repentance from Sin, that removes the judg<g ref="char:EOLhyphen"/>ment for Sin, and its not adding one Sin to another; neither is it in the hand of thoſe to whom you do appeale to remove the judgments of the Lord, for what are they but mortal men like your ſelves, and tranſgreſſors with your ſelves, and have a part in the Sins acted by you, and muſt have a part in the ſame judgments, though you ſtirr them up to improve them<g ref="char:EOLhyphen"/>ſelves, and their Talent for the peace of the Church, as you ſay, when as alaſs its Jeſus Chriſt only that muſt keep his Church in peace, by his good Spirit, and not mortal men with mortal weapons; though you ſay the diſcharge of their truſt may make theſe Nations happy, or leave them miſerable; to which I ſay if they be faithfull to their truſt, then they will keep your Citty in peace, and doubtleſſe they ſhould be bleſſed therin, but yet the happineſſe of theſe Nations dependeth not upon them, nor upon what they can do, for while many are ſuppoſing that they improve their truſt, its poſſible they may be perſecuting righ<g ref="char:EOLhyphen"/>teouſneſſe under the name of Hereſie, and perſecuting Chriſt in his People under the name of a deceiver and falſe prophet, this hath often come to paſſe in this Citty and Nation, men have im<g ref="char:EOLhyphen"/>proved their power and places to the diſhonour of God, and the perſecuting Chriſt in his Members, while as they have bin think<g ref="char:EOLhyphen"/>ing they have bin puniſhing Sin, Hereſie, and Error, and in ſuch caſes ſome have improved their Talents not truly for God, but rather againſt him; but wheras you ſay, you humbly preſent that the priviledges of the Goſpel, the faithfull preaching and diſpenſing of Gods holy Word and Sacraments, with the labour of ſo many of his faithful Servants in the Miniſtry, and you hum<g ref="char:EOLhyphen"/>bly deſire the Miniſtry may be contenanced and incouraged, the Univerſities upheld and maintained, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Alaſs, my Friends! what do you think concerning the Lord God? ſurely you have low thoughts of him, and little be<g ref="char:EOLhyphen"/>liefe in him, do not you think he will maintaine the priviledges of the Goſpel, and the faithfull preaching and diſpenſing of his Word, and his faithful Miniſtry without you, doe you think that he hath forgotten to be gratious, or that his power is in<g ref="char:EOLhyphen"/>ſufficient to maintaine his own cauſe, and to uphold the rights and priviledges of his own Kingdome? doe you think that he
+<pb n="4" facs="tcp:40540:3"/>hath need of you? or a multitude of wild and heady men, and Youth to fight in his cauſe, to uphold his Goſpel, and Miniſtry, and Miniſters? alaſs no! you are deceived in this matter, for his own Arme ſhall do all this, and he will do it without you, and not be beholding to you in this matter; his Goſpel, nor the priviledges of it ſhall not fall; the true Miniſtry, the preaching and diſpenring of Gods Word and Ordinances ſhall not periſh, though you the ſilent, for the Lord by his own power will main<g ref="char:EOLhyphen"/>taine and carry on theſe things, and all others belonging to his Kingdome, without the help of mortall men, or without the help o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Arme of fleſh: ſo that you may put up your Swords and be ſtill in this matter, and leave it to God who is ſufficient for theſe things, without a multitude of men, or without the Arme of fleſh; but do you intend really as you ſpeak? or do you make this pretence only a Cloak, and you propound theſe things that are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood in themſelves, as to be the cauſe of your undertaking, when as you have ſome other deſigne to promote; would you bring in a ſtrange Nation, even Tyrants and their Adherents to devoure the Land, and even to deſtroy your ſelves and your Citty, would you ſett up an oppreſſing Monarchy which the Land hath once ſpued forth: theſe things are to be doubted, that if your deſignes did prevaile, the fruit of your work would tend therunto, for I muſt tell you, that the faith<g ref="char:EOLhyphen"/>full teachers of Gods Word, and the faithfull Miniſtry, deſire not your help to proſecute their cauſe, and the cauſe of the Goſ<g ref="char:EOLhyphen"/>pel, but they truſt to the Lord to be maintained, countenanced, and encouraged by him alone, who is ſufficient in that cauſe; though it is true the falſe Miniſters, and the Antichriſtian Teach<g ref="char:EOLhyphen"/>ers through all Chriſtendome, for many generations, they have ſought unto the Arme of Fleſh to ſet them up, to maintaine and defend them, and their Goſpel and falſe Church; thus it is through the Popes Dominion, and among ſome Proteſtants alſo, they cry unto the Magiſtrates, unto the Kings, and Parliaments, for the making cruel Lawes to defend them, and to the Rude World they cry Help us, and ſave us, and defend us, by fighting with carnal weapon, for Hereſies and Errors and ſuch like, and they ſtand in their Miniſtry, in their call to it, and maintenance of it, and defence in it, by the Arme of Fleſh, and their Church is upheld therby alſo, but this is but Antichriſts way, and theſe are Antichriſts Miniſters, and his falſe Church hereby is defended
+<pb n="5" facs="tcp:40540:3"/>in the world, and this ſhews that the weapon of the Spirit of God is wanted by them, which the Apoſtles had, and it is very doubtful, O yee Apprentiſes of London, that your Mini<g ref="char:EOLhyphen"/>ſters have prayed you and Preached you into ſuch a work, as that you ſhould ſtand up to maintaine them, and fight for them, and their Church, againſt ſuch that do oppoſe them, but I muſt tell you if their defence be not in another hand then in yours, they are like to come to perpetuall ruine, and their Goſpel, and their Teaching, and their Sacraments, and their Church cannot ſtand, if they have not the Lords help more then yours. And as for the Univerſities which you contend for, alas many of you are igno<g ref="char:EOLhyphen"/>rant concerning them, and what abomination is committed a<g ref="char:EOLhyphen"/>mong them: oh! if you knew but the prophaneneſſe, and un<g ref="char:EOLhyphen"/>godlineſſe, and the ill education that is among them, it would turne your zeal for them backwards, and its not from humane Studies that the faithfull Miniſters of Chriſt come, but who are ſo indeed, are made ſo by the eternal gift of Gods eternal Spirit, both in this age and in ages paſt, ſo that O yee Prentiſes, Be ſtill, be ſtill, and do not ruin your ſelves and your Citty, by rage, and fury, and diſorders, upon ſuch a proceeding, for your ground of quarrel is not perfectly good, nor your endeavour in the cauſe a<g ref="char:EOLhyphen"/>foreſaid well accepted of the Lord.</p>
+            <p>But if your quarrel be upon the Account, or about the mat<g ref="char:EOLhyphen"/>ter of Church and Miniſtry, leave that to the Lord, and to your Miniſters, that they may defend themſelves, their Church, and Ordinances, and Worſhip, by the Spirit of God, if they have it, for that is the weapon of Miniſtry, Church, and Goſpel-war<g ref="char:EOLhyphen"/>fare, and not carnal weapons, nor the multitude of an hoſt of men. Let your Miniſters come forth in the beſt authority of ſpirit that they have, and plead the cauſe of their Worſhip, and Goſpel, and Miniſtery like Chriſtians, and not like Jewes and Heathens; for they uſe carnal weapons, killing and murthering about Church and Religion, that is the Papiſts practices, and not the practice of the Saints; ſo that ye Apprentices, ſeeing you ſtate your quarrel againſt the Army, upon the account of Church and Miniſtery, my advice is to you, proceed no further upon that ground, but give your truſt to the Lord, for the maintaining of all things related to his own Kingdom: but the cry is, Thoſe Sectaries, thoſe Sectaries, away with them; your trouble ſeeme to be concerning them leaſt they prevail; but wherefore are
+<pb n="6" facs="tcp:40540:4"/>you troubled in this matter? like as if you knew not that what the Lord purpoſeth muſt come to paſſe; who are of God will ſtand, this you need not doubt, and who are not, will come to nought: and its vain for mortal man to oppoſe the Lords pur<g ref="char:EOLhyphen"/>poſe. But this was the cry in daies paſt; how did the Biſhops and Prelates in their daies cry againſt the non-conformiſts, as Hereticks, and ſuch like, even as the Miniſters now cries againſt Sectaries? But conſider, how did the Biſhops proceed, but in be<g ref="char:EOLhyphen"/>ing the chief cauſe themſelves of raiſing warr againſt the then non-conformiſts, thinking thereby to have ſmitten them all? but you know it proved otherwiſe, and as they thought to do unto others, ſo was it done unto them; which thing may be an exam<g ref="char:EOLhyphen"/>ple to you; for as they thought to have deſtroied the then called Puritans, in like manner were themſelves deſtroied, and this may poſſibly fall upon you: therefore conſider, for I tell you as an e<g ref="char:EOLhyphen"/>qual man between you and them, that there is more ſincerity to<g ref="char:EOLhyphen"/>wards God, and a fear of his Name in ſome of them called Se<g ref="char:EOLhyphen"/>ctarians, then there is amongſt you and your Miniſters, though I do not here juſtifie the Sectarians (ſo called) in all things; nei<g ref="char:EOLhyphen"/>ther do I in every thing condemn your Miniſters; but this I ſay and do know, if that you and your Miniſters raiſe a warr againſt thoſe called Sectarians, the effect therof will prove your own ſorrow, and their advantage; ſo this is my advice to you, reſt and be ſtill, and that will prove your own peace and happineſſe. And as for the poor Soldiers which you ſo much hate in the Citty, alaſs you might conceive their advantage is but ſmall which they have for their ſufferings and tribulations, who have greater reaſon to cry out of their diſtreſſes and want of pay, then you have of want of Trading, or any thing that has yet happened to you, only there is a ſecret power which carries them on in oppoſition to you, though as for the Perſons themſelves they are many of them profane, and ſinfull as others, yet there hath bin a power and preſence ſomtimes going along with bad inſtruments; there<g ref="char:EOLhyphen"/>fore take heed and beware leaſt yee oppoſe and gain-ſay the work and power of God, which his purpoſe is to bring to paſſe in this his day, who is ſeting up his Kingdome, in the midſt of tribula<g ref="char:EOLhyphen"/>tions, that comes upon men.</p>
+            <p>The ſecond particular humbly deſired by you is; <hi>the freedom and priviledges of Parliaments, as being the great Charter of the People, which you account very deare unto you, and by which you hope to ſee (you
+<pb n="7" facs="tcp:40540:4"/>ſay) a ſettlment in Chuch and State, and you humbly conceive that to be the probable meanes to eſtabliſh the true Proteſtant Religion, reforme the Lawes, ſecure the Liberties, promote Learning, &amp;e.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Now Friends, do but truly conſider, and with a hum<g ref="char:EOLhyphen"/>ble minde, what the work of the Lord hath bin in theſe Nations for divers yeares, and how he hath proceeded to overthrow, and overturne Powers and Authorities, Princes, and Rulers, and made them of no account before him, and though the inſtruments which God hath uſed in that matter in plucking down men and powers, hath bin as much corrupted as thoſe that have bin over<g ref="char:EOLhyphen"/>turned, and when as the meaſure of iniquitie in one was fill'd up, the Lord threw that power down even as it were by the iniqui<g ref="char:EOLhyphen"/>tie of another, and becauſe of the oppreſſions of Rulers among us, the Nation hath groaned, and been left without a Com<g ref="char:EOLhyphen"/>forter from any man, and could not repoſe confidence in its Princes and Rulers, and this was, that the Nation might look unto the Lord, and that through him they might be ſaved, and expect healing from him alone, and in all theſe overturnings you need not fear, but the hand of the Lord hath bin in them, and his Arme hath ſuffered, and even brought theſe things to paſſe, and therefore why ſhould you murmure againſt God, and be unſatisfied in what he hath done; and the Nation hath not found much freedom, no, nor any great deliverance from Par<g ref="char:EOLhyphen"/>liaments, no more then it did from Kings, neither in Protectors, nor in any other hath the Nation found ſalvation to this day, but the Lord hath broken and confounded theſe one after ano<g ref="char:EOLhyphen"/>ther, and its he alone, and not another, that muſt ſettle a happy and laſting Peace both in Church and State, and he that muſt eſtabliſh true Religion, and reforme the Lawes, and ſecure our Liberties, and preſerve our lives, and encourage all vertue, it is the Lord that will do all theſe things for this Nation, and its not any other in whoſe hand the ſalvation of a perſon or a Nati<g ref="char:EOLhyphen"/>on is, and how he ſhall do this, and by what means, leave that to him; limit him not to the way of Parliaments, or otherwaies, for if the Nation can be but patient and ſtill, he will bring to paſſe theſe things in his day and ſeaſon, for Kings, Parliaments, and Protectors, have had their day, and the Nation hath had try<g ref="char:EOLhyphen"/>all what all ſuch could do, and they have all bin inſufficient to ſave us.</p>
+            <pb n="8" facs="tcp:40540:5" rendition="simple:additions"/>
+            <p>Wherfore, O Nation and Citty, Be ſtill, be ſtill, and be patient under the hand of God which is upon you, combine not miſchief one againſt another, nor deſire the overthrow one of another, but be ſtill be ſtill, this is the word of the Lord to you, be at qui<g ref="char:EOLhyphen"/>et in your Spirits, and wait upon the Lord to receive what he brings forth, for O yee Apprentiſes, and young men of London, your rude proceedings in theſe cauſes will but deſtroy your ſelves and your Citty, if you proceed any further, for what is a multi<g ref="char:EOLhyphen"/>tude of men but as bryars and thornes in battel before the Lord: if he purpoſe a work you cannot prevent it, and if he prevent a work, its vain for you to endeavour it, theſe things are in the hand of the Lord, and Nations are unto him as clay in the hand of a Potter; but now I do not ſpeak as your Enemie, for I love your Citty and wiſh it well, alack, neither will I juſtifie the Army, nor the men that you oppoſe in oppoſition to you, for their waies are corrupted I know, and their own ends they ſeeke, and they are for condemnation ſome of them, and their iniquities are fully ripe, and God will bring them down, but yet let you them alone, the Lord will deale with them, and he can execute his judgment with his own hand without you, and if you can be but quiet for a little ſeaſon, it will make for your peace hereafter, but if your Spirits rage and ſwel, you may work miſerie unto yourſelves, and to your Citty, but you cannot redeem it from miſery; ſo do not talke of the Church, as if you would fight to uphold it, leave that to the Lord, for Chriſt will look to that, to governe it and preſerve it out of all, and from all its Enemies, and it belongs not unto you, but that which the Lord requires of you is patience and ſub<g ref="char:EOLhyphen"/>miſſion to his will, and to be ſtill to be ſtill, till he appeares with ſalvation and deliverance to this Citty and Nation, to deliver them from all oppreſſion, and oppreſſors, whoſe coming is at hand, and bleſſed are all they who are found in patience at his coming.</p>
+            <closer>
+               <dateline>LONDON. <date>10th. Mo. 1659.</date>
+               </dateline>
+               <signed>E. H.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
